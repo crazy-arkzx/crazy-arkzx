@@ -4,6 +4,6 @@
 ```Pawn```
 
 # Jogos que Jogo
-```Among US```
-```Roblox```
-```SA-MP Multiplayer```
+Among US: loamybold#9172
+Roblox: Crazy_ArKzX
+GTA SA-MP: Crazy_ArKzX
