@@ -1,6 +1,6 @@
 # Linguagens
 ```Python```
-```HTMLT/CSS/JS```
+```PHP/HTMLT/CSS/JS```
 ```Pawn```
 
 # Jogos que Jogo
