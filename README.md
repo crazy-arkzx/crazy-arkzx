@@ -3,7 +3,7 @@
 ```PHP/HTML/CSS/JS```
 ```Pawn```
 
-# Jogos que Jogo
+# Jogos
 * Among US: loamybold#9172
 
 * Roblox: Crazy_ArKzX
