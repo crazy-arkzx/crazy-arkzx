@@ -4,6 +4,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Pawn](https://camo.githubusercontent.com/d0f8d724db743182485eba909631e92c90a32ee39923fbb4fc914ef047ca9377/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d5041574e2d6f72616e6765)
 
 
 
