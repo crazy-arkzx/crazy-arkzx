@@ -17,4 +17,4 @@
 
 # DISCORD
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
-Username: crazy_arkzx<br>Community: https://dc.gg/arkzx-community
+Username: crazy_arkzx<br>Community: https://dsc.gg/arkzx
